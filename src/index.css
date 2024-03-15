@@ -22,6 +22,11 @@ body {
   border-radius: 5px;
   
 }
+.items a:hover{
+  background-color: orange;
+  border-radius: 5px;
+  
+}
 .uname :hover{
   background-color: orange;
   border-radius: 5px;
@@ -56,8 +61,6 @@ body {
   /* margin-left: 15px; */
   /* border: 1px solid red; */
   padding: 15px 0px;
-
-  
 
 }
 
@@ -170,5 +173,10 @@ body {
 .project-image{
   width: 100%;
   height: 40%;
+}
+
+.h-button{
+  
+  color: white;
 }
 
